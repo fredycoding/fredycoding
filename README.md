@@ -21,3 +21,14 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fredycoding&" alt="fredycoding" /></p>
 
+<details><summary>CLICK ME</summary>
+<p>
+
+#### We can hide anything, even code!
+
+```ruby
+   puts "Hello World"
+```
+
+</p>
+</details>
