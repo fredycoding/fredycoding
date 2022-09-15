@@ -31,6 +31,30 @@ https://gist.github.com/fredycoding/7865cfbad1bf6ed9e8877e8695d53dec
 
 #### Interconectar React + DJANGO
 https://gist.github.com/fredycoding/3b3087ee17e1c12c2863cb3f2b2da1f8
+  
+#### Implementación de recaptcha de Google en Django
+https://gist.github.com/fredycoding/69809147f075f12129d111b68f0be641
+
+####  Cómo crear un entorno virtual en Python
+https://gist.github.com/fredycoding/13d78d4c14762bad5dc087682fc91fd5
+
+#### Crear un Dataframe con Pandas - Python
+https://gist.github.com/fredycoding/c9764b871db67ef9a6b591a4e0d20db4
+
+#### Print en Python
+https://gist.github.com/fredycoding/4f23d66366beb556b3ca2a50bcb02026
+
+#### Crear una API REST en DJANGO
+https://gist.github.com/fredycoding/cbf5e0fe964bc4a3c7e5e3c8fbdd66dd
+
+#### Diccionarios en Python
+https://gist.github.com/fredycoding/d608acc9f6028019215f8f49c5177a20  
+
+#### Consultar la api de Facebook con Python
+https://gist.github.com/fredycoding/aedf56511044b560965f2539b1de52c6
+
+#### Texto a MP3 en PYTHON
+https://gist.github.com/fredycoding/cf7debc11b6a65c5403f74c2ac16f93b  
 
 </details>
 
