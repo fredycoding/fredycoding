@@ -26,8 +26,11 @@
 #### Descargar imágenes con Python
 https://gist.github.com/fredycoding/4ec89d313b0a35f46c682aca5eb5ee7b
 
- #### Traducción en DJANGO con Rosetta
- https://gist.github.com/fredycoding/7865cfbad1bf6ed9e8877e8695d53dec  
+#### Traducción en DJANGO con Rosetta
+https://gist.github.com/fredycoding/7865cfbad1bf6ed9e8877e8695d53dec
+
+#### Interconectar React + DJANGO
+https://gist.github.com/fredycoding/3b3087ee17e1c12c2863cb3f2b2da1f8
 
 </details>
 
