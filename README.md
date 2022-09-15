@@ -54,7 +54,10 @@ https://gist.github.com/fredycoding/d608acc9f6028019215f8f49c5177a20
 https://gist.github.com/fredycoding/aedf56511044b560965f2539b1de52c6
 
 #### Texto a MP3 en PYTHON
-https://gist.github.com/fredycoding/cf7debc11b6a65c5403f74c2ac16f93b  
+https://gist.github.com/fredycoding/cf7debc11b6a65c5403f74c2ac16f93b
+
+#### Obtener suscriptores de Youtube en Python
+https://gist.github.com/fredycoding/8655a5f909906f0a4718639953f86c44  
 
 </details>
 
