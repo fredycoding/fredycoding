@@ -22,14 +22,13 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fredycoding&" alt="fredycoding" /></p>
 
 <details><summary>PYTHON GISTS</summary>
-<p>
+
 #### Descargar imágenes con Python
 https://gist.github.com/fredycoding/4ec89d313b0a35f46c682aca5eb5ee7b
-</p>
- <p> 
+
  #### Traducción en DJANGO con Rosetta
  https://gist.github.com/fredycoding/7865cfbad1bf6ed9e8877e8695d53dec  
- </p>
+
 </details>
 
 
