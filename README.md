@@ -24,11 +24,8 @@
 <details><summary>CLICK ME</summary>
 <p>
 
-#### We can hide anything, even code!
-
-```ruby
-   puts "Hello World"
-```
+#### Descargar imágenes con Python
+(https://gist.github.com/fredycoding/4ec89d313b0a35f46c682aca5eb5ee7b)
 
 </p>
 </details>
