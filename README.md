@@ -21,7 +21,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fredycoding&" alt="fredycoding" /></p>
 
-<details><summary>CLICK ME</summary>
+<details><summary>PYTHON GISTS</summary>
 <p>
 
 #### Descargar imágenes con Python
