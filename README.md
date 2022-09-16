@@ -64,6 +64,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fredycoding&" alt="fredycoding" /></p>
 
 <details><summary>PYTHON GISTS</summary>
+
 ####  Cómo crear un entorno virtual en Python
 https://gist.github.com/fredycoding/13d78d4c14762bad5dc087682fc91fd5
 
